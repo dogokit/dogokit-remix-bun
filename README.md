@@ -1,6 +1,7 @@
-# Welcome to Remix + Vite!
+# Dogokit Remix Bun
 
-📖 See the [Remix docs](https://remix.run/docs) and the [Remix Vite docs](https://remix.run/docs/en/main/future/vite) for details on supported features.
+- Remix v2 with Vite
+- Bun
 
 ## Development
 
